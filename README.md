@@ -1,2 +1,2 @@
-# lezioni
-Materiale per lezioni di programmazione
+# Lezioni
+Materiale per lezioni di programmazione.
